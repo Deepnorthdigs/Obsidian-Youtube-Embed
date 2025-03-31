@@ -1,0 +1,9 @@
+{
+  "id": "youtube-embed-plugin",
+  "name": "YouTube Embed Plugin",
+  "version": "1.0.0",
+  "minAppVersion": "0.12.0",
+  "author": "Your Name",
+  "description": "Embeds YouTube links in notes so they can be played directly inside Obsidian.",
+  "isDesktopOnly": false
+}
